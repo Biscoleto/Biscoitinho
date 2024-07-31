@@ -1,10 +1,10 @@
 # Olaaa!!!!
 - # Seja bem vindo ao: Biscoitinho sendo obrigado a fazer coisas!!!!! 🥳
--Estou studying com o Alura
+- Estou studying com o Alura
 
- -Estou me desenvolvendo na linguagem JavaScript 
- 
- -Vou usar esse espaço para projeto e compartilhar
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Vou usar esse espaço para projetos e compartilha-lhos
 
 - Se quiser entrar em contato nao tera como, infelismente nao irei colocar meu email🙂
 
