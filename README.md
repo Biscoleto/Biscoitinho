@@ -1,6 +1,6 @@
 # Olaaa!!!!
 - # SEja bem vindo ao: Biscoitinho sendo obrigado a fazer coisas!!!!! 🥳
--Estou estudando na Alura 
+-Estou estudando no Alura 
 
  -Estou me desenvolvendo na linguagem JavaScript 
  
